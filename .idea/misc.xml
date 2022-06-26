@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/drawable/add.xml" value="0.1145" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/drawable/border.xml" value="0.1145" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/drawable/edit.xml" value="0.1145" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_admin__login.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_admin__reg.xml" value="0.25" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_admin_profiel.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_c_a_l_l.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_home_page.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_update_profile.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/activity_user_homepage.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/item.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/layout/terms_policies.xml" value="0.15806159420289856" />
+        <entry key="..\:/project/AndroidStudioProjects/EmergencyApp/app/src/main/res/menu/menu_list.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
